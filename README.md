@@ -1,6 +1,6 @@
 # Cook_Master
-  Solidity is an object-oriented programming language created specifically by the Ethereum Network team for constructing and designing smart contracts on Blockchain platforms.It's used to create smart contracts that implement business logic and generate a chain of transaction records in the blockchain system.
-
+  Cook_Master guide individuals in preparing dishes to achieve specific culinary goals. They provide step-by-step instructions, detailing ingredients, quantities, and cooking methods. A mobile app targeting cooking enthusiasts can help them learn and practice. Filipino culinary traditions are deeply rooted in recipes, serving as cultural artifacts, vessels of tradition, and expressions of common identity. Each dish tells a story and every ingredient connects past and present.
+  
 # description 
 
   Smart contracts are code written into a blockchain that executes the terms of an agreement or contract from outside the chain.It automates the actions that would otherwise be completed by the parties in the agreement, which removes the need for both parties to trust each other. 
