@@ -5,7 +5,7 @@
 
  This app can be used to learn Filipino and other cuisines, focusing on regional differences. It includes traditional and contemporary Filipino recipes, snacks, desserts, and drinks. A mobile app is proposed for accessing, sharing, and discovering recipes. The app is available for download on iOS and Android platforms, providing knowledge to cooking enthusiasts and making it convenient for users.
 
-
+# https://docs.google.com/document/d/1jgIiQLF-rWcoK6-bD2ZDgtjsME0sp2FEZdxaBZWg_JY/edit?usp=drivesdk
 
 ## Author 
 Chester Villardo
