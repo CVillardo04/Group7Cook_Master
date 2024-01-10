@@ -7,6 +7,3 @@
 
 # https://docs.google.com/document/d/1jgIiQLF-rWcoK6-bD2ZDgtjsME0sp2FEZdxaBZWg_JY/edit?usp=drivesdk
 
-## Author 
-Chester Villardo
-8215358@ntc.edu.ph
